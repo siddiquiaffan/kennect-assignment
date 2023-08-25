@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+    @apply px-4 md:px-20 lg:px-28 xl:px-32 py-6;
+}
